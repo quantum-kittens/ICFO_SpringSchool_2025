@@ -8,7 +8,7 @@ You can use [an online jupyter lab environment](https://quantum.cloud.ibm.com/do
 
 
 
-Follow the Qiskit installation guide to complete the following steps:
+Follow the [Qiskit installation guide](https://docs.quantum.ibm.com/guides/install-qiskit) to complete the following steps:
 
 1. Install python
 
