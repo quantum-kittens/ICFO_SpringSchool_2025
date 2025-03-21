@@ -32,5 +32,5 @@ Follow [this guide](https://docs.quantum.ibm.com/guides/setup-channel) to setup 
 
 # Qiskit Advocate Program 
 
-The Qiskit advocate program is a global program that provides support to individuals who actively contribute to the Qiskit community. Sign up to be notified about the program re-launch [here](https://airtable.com/app8koO4BZifGFhCV/shrDgNq2U6cNIb3FQ?sf205619466=1).
+The Qiskit advocate program is a global program that provides support to individuals who actively contribute to the Qiskit community, and who have proven themselves proficient in Qiskit. Sign up to be notified about the program re-launch [here](https://airtable.com/app8koO4BZifGFhCV/shrDgNq2U6cNIb3FQ?sf205619466=1).
 
