@@ -16,9 +16,9 @@ Follow the [Qiskit installation guide](https://docs.quantum.ibm.com/guides/insta
 
 	- Create a virtual environment and activate it
 
-	- Install qiskit including the visualization extra packages: `pip install qiskit[visulization]`
+	- Install qiskit including the visualization extra packages: `pip install qiskit[visualization]`
 
-	- Install qiskit-ibm-runtime: `pip install qiskit-ibm-runtme`
+	- Install qiskit-ibm-runtime: `pip install qiskit-ibm-runtime`
 
 	- Install jupyter: `pip install jupyter`
 
